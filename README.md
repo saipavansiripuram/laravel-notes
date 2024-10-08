@@ -259,7 +259,3 @@ composer require laravel/framework "^8.0" --update-with-all-dependencies
 ## Helpful Links
 
 - Laravel Documentation: [https://laravel.com/docs](https://laravel.com/docs)
-
----
-
-This README should now provide a comprehensive guide for understanding the basics of Laravel, along with examples for installation, routing, Blade templates, controllers, and other key topics.
